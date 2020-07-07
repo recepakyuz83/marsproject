@@ -1,0 +1,6 @@
+C:\Users\Recep\source\repos\MarsProject\bin\Debug\MarsProject.exe.config
+C:\Users\Recep\source\repos\MarsProject\bin\Debug\MarsProject.exe
+C:\Users\Recep\source\repos\MarsProject\bin\Debug\MarsProject.pdb
+C:\Users\Recep\source\repos\MarsProject\obj\Debug\MarsProject.csproj.CoreCompileInputs.cache
+C:\Users\Recep\source\repos\MarsProject\obj\Debug\MarsProject.exe
+C:\Users\Recep\source\repos\MarsProject\obj\Debug\MarsProject.pdb
